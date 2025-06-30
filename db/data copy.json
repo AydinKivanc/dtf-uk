@@ -2058,5 +2058,25 @@
     "isMakina": false,
     "isSarf": false,
     "isMaterials": false
+  },
+
+  {
+    "id": 118,
+    "firmaAdi": "Sabur",
+    "webPage": "https://www.saburdigital.com/",
+    "address": "Unit 2, Wharncliffe Business Park, Carlton,Barnsley, South Yorkshire, S71 3HR",
+    "city": "Sheffield",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Printing You can be sure of top quality service, support and sales from Sabur Digital. We offer Direct to Film (DTF), Sublimation, UV, UVDTF, Resin, Eco-solvent and Direct to Textile printers – all supported with more than 25 years’ experience.",
+      "Cutting Put profits up and bring costs down with a world-class cutter that’s got all the backing and support of a market-leader. IECHO. Customers tell us IECHO cutters are growing their business, so browse the iECHO range, and explore other cutting solutions like NEOLT’s XY Cutter, too.",
+      "Finishing Fast start-up, low running costs, easy to use – and consistent temperature. That’s what you want in Heat Presses and Calender Presses. Better results guaranteed, with the support of a team that knows the Diferro, Klieverik, and Sefa machines, inside-out."
+    ],
+    "not": "Baskı yapılan materyal veya tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [""],
+    "makine_pictures": ["sabur_1.png", "sabur_2.png"]
   }
 ]
