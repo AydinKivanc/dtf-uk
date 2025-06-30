@@ -1,0 +1,2062 @@
+[
+  {
+    "id": 1,
+    "firmaAdi": "Absolute Apparel",
+    "webPage": "https://www.absoluteapparel.co.uk/",
+    "address": "Racecourse Road, Wolverhampton, WV6 0QD",
+    "city": "Wolverhampton",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (T-shirt, headwear, iş kıyafetleri, sweat, polar, ceket, çorap, bebek & çocuk giyimi, aksesuar, vb.)",
+      "Tekstil ve hazır giyim toptan satışı (sadece B2B, yani baskı yapan firmalara ve perakendecilere toptan satış)",
+      "Organik, geri dönüştürülmüş ve sürdürülebilir tekstil ürünleri satışı",
+      "Farklı markaların (Fruit of the Loom, Gildan, Jerzees, Regatta, Russell vb.) tekstil ürünlerinin distribütörlüğü ve satışı"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 2,
+    "firmaAdi": "Adelco",
+    "webPage": "https://www.adelco.co.uk/",
+    "address": "Highview, High Street GU35 0AX",
+    "showwroom": "Bordon GU35 0AX United Kingdom",
+    "city": "Bordon",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı makineleri satışı (Dijital tekstil baskı makineleri, direkt tişört baskı makineleri, DTF ve UV DTF makineleri, otomatik ve manuel serigrafi baskı makineleri)",
+      "Baskı makineleri servisi ve teknik destek",
+      "Baskı makinelerine uygun kurutma makineleri ve aksesuar satışı (kurutucu, flash cure vb.)",
+      "Katlama ve sonlandırma makineleri satışı (otomatik katlama makineleri)",
+      "Baskı makineleri için yedek parça ve sarf malzemesi satışı"
+    ],
+    "not": "Baskı yapılan materyal veya tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "isChinaBase": true,
+    "isAmericaOn": true,
+    "isAvrupa": true,
+    "makinalar": [
+      "2 head 16,878.00 GBP",
+      "4 head 21,934.00 GBP",
+      "8 head 33,615.00 GBP"
+    ],
+    "makine_pictures": ["adelco.png"]
+  },
+  {
+    "id": 3,
+    "firmaAdi": "AIM Smarter",
+    "webPage": "https://www.aimsmarter.com/",
+    "address": "1st Floor, 3 More London Riverside, SE1 2RE",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Promosyon ürünleri ve kurumsal hediye tedarik platformu (yazılım ve online katalog)",
+      "Tedarik zinciri ve sipariş yönetimi yazılımı (özellikle promosyon sektörü için)",
+      "Dijital pazarlama ve e-ticaret çözümleri sunumu"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya tekstil satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 4,
+    "firmaAdi": "AJS Embroidery Services",
+    "webPage": "https://www.ajs.co.uk/",
+    "address": "Farley House Kinvara Business Park 22-42 Freshwater Road Dagenham Essex RM8 1RY",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": ["destek hizmetler"],
+    "not": "",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 5,
+    "firmaAdi": "Amaya Sales UK",
+    "webPage": "https://www.amayauk.com/",
+    "address": "Unit 400-450 Nest Business Park, Martin Road, Havant, Hampshire, PO9 5TL",
+    "city": "Portsmouth",
+    "showwroom": "Unit 4A-C East Bridgford Business Park, Kneeton Road, East Bridgford, Nottingham, NG13 8PJ",
+    "showwroom_city": "Nottingham",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Dijital baskı makineleri satışı (DTG, DTF, UV, transfer baskı makineleri, lazer kesim makineleri)",
+      "Baskı makineleri servisi ve teknik destek",
+      "Baskı makineleri için sarf malzemesi ve yedek parça satışı",
+      "Nakış makineleri satışı ve servisi",
+      "Baskı ve nakış yazılımı satışı"
+    ],
+    "not": "Baskı yapılan tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "Epson SureColor SC-G6000 DTF Printer",
+      "Epson SC-F Series DTG & DTF Printers"
+    ],
+    "makine_pictures": ["amayauk.png", "amayauk_2.png"]
+  },
+  {
+    "id": 6,
+    "firmaAdi": "Anthem",
+    "webPage": "https://www.anthemclothing.co.uk/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (T-shirt, sweatshirt, hoodie, polo, organik ve geri dönüştürülmüş tekstil ürünleri)",
+      "Tekstil ve hazır giyim toptan satışı (B2B, baskı ve promosyon firmalarına)",
+      "Sürdürülebilir ve etik üretim odaklı tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 7,
+    "firmaAdi": "AS Colour UK",
+    "webPage": "https://www.ascolour.co.uk/",
+    "address": "8-10 Southgate Road, London, N1 3LY",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (T-shirt, sweatshirt, hoodie, şapka, tote bag, bebek ve çocuk giyimi, aksesuar)",
+      "Tekstil ve hazır giyim toptan satışı (özellikle baskı ve promosyon firmalarına)",
+      "Sürdürülebilir ve etik tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 8,
+    "firmaAdi": "Asquith & Fox",
+    "webPage": "https://www.asquithandfox.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (polo yaka tişört, chino pantolon, sweatshirt, şort, gömlek vb.)",
+      "Tekstil ve hazır giyim toptan satışı (B2B, baskı ve promosyon firmalarına)",
+      "Renkli ve klasik iş kıyafetleri koleksiyonu"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 9,
+    "firmaAdi": "Atlantis Headwear",
+    "webPage": "https://www.atlantisheadwear.com/",
+    "address": "Via Marco Polo, 1, 30020 Noventa di Piave VE",
+    "city": "Noventa di Piave",
+    "country": "Italy",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (şapka, bere, bandana, kasket, bucket hat, spor şapkaları vb.)",
+      "Tekstil ve hazır giyim aksesuarlarının toptan satışı",
+      "Sürdürülebilir ve geri dönüştürülmüş malzemelerden üretilmiş headwear ürünleri",
+      "Özel üretim ve kişiselleştirilmiş headwear çözümleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 10,
+    "firmaAdi": "AWDis",
+    "webPage": "https://www.awdisbrands.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (hoodie, sweatshirt, t-shirt, jogger, spor giyim, okul üniforması, iş kıyafetleri)",
+      "Tekstil ve hazır giyim toptan satışı (B2B, baskı ve promosyon firmalarına)",
+      "Farklı segmentlerde (spor, okul, iş, günlük) geniş ürün portföyü",
+      "Sürdürülebilir ve organik tekstil ürünleri koleksiyonu"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 11,
+    "firmaAdi": "Aprix / Old Town Trading",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Promosyon ürünleri ve tekstil ürünleri toptan satışı",
+      "Kişiye özel baskılı ürünler tedariği"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 12,
+    "firmaAdi": "Barudan",
+    "webPage": "https://www.barudan.co.uk/",
+    "address": "2-2-1, Sakae, Naka-ku, Nagoya, 460-0008",
+    "city": "Nagoya",
+    "country": "Japan",
+    "faaliyetAlanlari": [
+      "Nakış makineleri satışı (endüstriyel ve ticari)",
+      "Nakış makineleri servisi ve teknik destek",
+      "Nakış makineleri için yedek parça ve sarf malzemesi satışı",
+      "Nakış yazılımı satışı"
+    ],
+    "not": "Tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 13,
+    "firmaAdi": "Beechfield Brands",
+    "webPage": "https://www.beechfield.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (şapka, bere, aksesuar, headwear)",
+      "Tekstil ve hazır giyim aksesuarlarının toptan satışı (B2B)",
+      "Sürdürülebilir ve geri dönüştürülmüş headwear ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 14,
+    "firmaAdi": "Beechfield Original Headwear",
+    "webPage": "https://www.beechfield.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (şapka, bere, headwear ürünleri)",
+      "Tekstil ve hazır giyim aksesuarlarının toptan satışı",
+      "Sürdürülebilir ve geri dönüştürülmüş headwear ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 15,
+    "firmaAdi": "Behrens",
+    "webPage": "https://www.behrens.co.uk/",
+    "address": "1-3 Dutton Street, Manchester, M3 1LE",
+    "city": "Manchester",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (iş kıyafetleri, spor giyim, havlu, medikal tekstil)",
+      "Tekstil ve hazır giyim toptan satışı (B2B)",
+      "Teknik tekstil ve özel üretim tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 16,
+    "firmaAdi": "Bella Canvas",
+    "webPage": "https://www.bellacanvas.com/",
+    "address": "3780 S. Hill Street, Los Angeles, CA 90007",
+    "city": "Los Angeles",
+    "country": "USA",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, bebek ve çocuk giyim, aksesuar)",
+      "Tekstil ve hazır giyim toptan satışı (B2B)",
+      "Organik ve sürdürülebilir tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 17,
+    "firmaAdi": "Best Pro",
+    "webPage": "https://www.bestpro.com/",
+    "address": "6/F, Block A, Hong Kong Industrial Centre, 489-491 Castle Peak Road, Kowloon",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "faaliyetAlanlari": [
+      "Promosyon ürünleri ve tekstil ürünleri toptan satışı",
+      "Kişiye özel baskılı ürünler tedariği",
+      "Spor giyim ve aksesuar satışı"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 18,
+    "firmaAdi": "BTC activewear",
+    "webPage": "https://www.btcactivewear.co.uk/",
+    "address": "1 Park Lane, Minworth, Sutton Coldfield, B76 1AP",
+    "city": "Sutton Coldfield",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, iş kıyafetleri, spor giyim, aksesuar)",
+      "Tekstil ve hazır giyim toptan satışı (B2B)",
+      "Farklı markaların distribütörlüğü"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 19,
+    "firmaAdi": "Bursali Towels",
+    "webPage": "https://www.bursali.co.uk/",
+    "address": "7-9 Wellington Street, Luton, LU1 2QH",
+    "city": "Luton",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (havlu, bornoz, banyo tekstili)",
+      "Otel ve spa tekstil ürünleri toptan satışı",
+      "Promosyon amaçlı tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 20,
+    "firmaAdi": "Candle Thread UK",
+    "webPage": "https://www.candlethread.co.uk/",
+    "address": "27 Old Gloucester Street, London, WC1N 3AX",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (iplik, nakış ipliği, dikiş ipliği, tekstil aksesuarları)",
+      "Nakış ve dikiş malzemelerinin toptan satışı",
+      "Sürdürülebilir iplik ve malzeme çözümleri"
+    ],
+    "not": "Baskı makinesi veya baskı yapılan tekstil ürünleri satışı yoktur.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": true
+  },
+  {
+    "id": 21,
+    "firmaAdi": "Cebrian UK",
+    "webPage": "https://www.cebrianuk.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (iş kıyafetleri, promosyon tekstili)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Kişiye özel tekstil üretimi"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 22,
+    "firmaAdi": "Chadwick Teamwear",
+    "webPage": "https://www.chadwickteamwear.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (takım spor giyimi, okul ve kulüp spor ürünleri)",
+      "Takım ve kulüp tekstili toptan satışı",
+      "Kişiye özel spor giyim üretimi"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 23,
+    "firmaAdi": "Complete Transfers",
+    "webPage": "https://www.completetransfers.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Transfer baskı ürünleri üretimi ve satışı",
+      "Isı transfer baskı çözümleri",
+      "Kişiye özel baskı transferleri",
+      "Spor numaraları ve isim transferleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 24,
+    "firmaAdi": "Cottonridge",
+    "webPage": "https://www.cottonridge.co.uk/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (hoodie, sweatshirt, t-shirt, jogger, spor giyim)",
+      "Tekstil ve hazır giyim toptan satışı (B2B)",
+      "Kişiye özel tekstil üretimi"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 25,
+    "firmaAdi": "Cre8iveSkill",
+    "webPage": "https://www.cre8iveskill.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış dijitalleştirme (embroidery digitizing) hizmetleri",
+      "Nakış ve baskı için vektörel çizim hizmetleri",
+      "Nakış yazılımı ve eğitim hizmetleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 26,
+    "firmaAdi": "CW Blanks",
+    "webPage": "https://www.cwblanks.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, bebek ve çocuk giyimi, aksesuar)",
+      "Tekstil ve hazır giyim toptan satışı (B2B)",
+      "Kişiye özel tekstil üretimi"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 27,
+    "firmaAdi": "David Sharp",
+    "webPage": "https://www.davidsharp.co.uk/",
+    "address": "Unit 16 Cooperage Green, Weevil Lane, Gosport, Hampshire, PO12 1FY",
+    "city": "Portsmouth",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış makineleri satışı",
+      "Nakış makineleri servisi ve teknik destek",
+      "Nakış makineleri için yedek parça ve sarf malzemesi satışı",
+      "Nakış yazılımı satışı"
+    ],
+    "not": "Baskı yapılan tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false,
+    "isGangSheet": true
+  },
+  {
+    "id": 28,
+    "firmaAdi": "DecoNetwork",
+    "webPage": "https://www.deconetwork.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Online baskı ve promosyon ürünleri satış platformu yazılımı",
+      "Web to print ve sipariş yönetimi yazılımı",
+      "Dijital mağaza ve e-ticaret çözümleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 29,
+    "firmaAdi": "Digitising Ascent",
+    "webPage": "https://www.digitisingascent.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış dijitalleştirme (embroidery digitizing) hizmetleri",
+      "Nakış ve baskı için vektörel çizim hizmetleri",
+      "Nakış yazılımı ve eğitim hizmetleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 30,
+    "firmaAdi": "DigitisingMart Europe",
+    "webPage": "https://www.digitisingmart.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış dijitalleştirme (embroidery digitizing) hizmetleri",
+      "Nakış ve baskı için vektörel çizim hizmetleri",
+      "Nakış yazılımı ve eğitim hizmetleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 31,
+    "firmaAdi": "Direct Textiles + Bags",
+    "webPage": "https://www.directtextiles.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (tekstil çantalar, promosyon tekstil ürünleri)",
+      "Hazır çanta ve aksesuar ürünlerinin toptan satışı",
+      "Baskıya uygun boş ürün temini"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 32,
+    "firmaAdi": "Don Darcy",
+    "webPage": "https://www.dondarcy.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Promosyon tekstil ürünleri satışı",
+      "Kurumsal giyim ve aksesuar satışı",
+      "Marka özelleştirme çözümleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi satışı veya üretim faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 34,
+    "firmaAdi": "DTF-Printers.co.uk",
+    "webPage": "https://www.dtf-printers.co.uk/",
+    "address": "Unit 48 Dinnington Business Centre Sheffield S25 3QX",
+    "city": "Sheffield",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTF baskı makineleri ve yazıcıları satışı",
+      "DTF sarf malzemeleri (film, mürekkep, toz) satışı",
+      "Baskı yazılımı ve teknik destek"
+    ],
+    "not": "Hazır tekstil ürünleri veya promosyon ürünleri satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "2 x Epson I1600 print heads 42cm Pro 2 DTF + POWDER SHAKER £6,995",
+      "2 x Epson I3200 print heads 42cm Pro 2 Hyper DTF + POWDER SHAKER £7,995",
+      "2 x Epson I3200 print heads 60cm Max DTF + Powder shaker £9,995",
+      "4 x Epson I3200 print heads 60cm Ultra DTF + Powder shaker £13,995",
+      "3 x Epson I3200 print heads 1ClickPrint 60cm UV DTF £12,995"
+    ],
+    "makine_pictures": ["1click_1.png", "1click_2.png", "1click_3.png"]
+  },
+  {
+    "id": 35,
+    "firmaAdi": "ETC Supplies",
+    "webPage": "https://www.etcsupplies.co.uk/",
+    "address": "31-33 Watt Road, Hillington Park, Glasgow, G52 4RY, UK",
+    "city": "Glasgow",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış, baskı ve dikiş için sarf malzemesi satışı",
+      "Yedek parça, iğne, yapışkan sprey, stabilizer, backing ürünleri",
+      "Makine ekipmanı aksesuarları ve atölye ürünleri"
+    ],
+    "not": "Baskı makinesi veya tekstil ürünü satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 36,
+    "firmaAdi": "Exceptio",
+    "webPage": "https://www.exceptio.co.uk/",
+    "address": "Unit 14, The io Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (tişört, hoodie, sweatshirt, iş kıyafetleri)",
+      "Tekstil ve moda ürünlerinin toptan satışı",
+      "Sürdürülebilir tekstil çözümleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 37,
+    "firmaAdi": "EXILE Technologies",
+    "webPage": "https://www.exiletech.co.uk/",
+    "address": "F3 Bramingham Business Park Enterprise Way, Luton Bedfordshire LU3 4BU England",
+    "city": "Luton",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Film output makineleri ve CTS (Computer-to-Screen) sistemleri",
+      "Ekran baskı öncesi dijital çözümler",
+      "Makine yazılımı ve teknik destek"
+    ],
+    "not": "Tekstil veya baskı materyali satışı yoktur.",
+    "isMakina": true,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 38,
+    "firmaAdi": "Falmer",
+    "webPage": "https://www.falmer.co.uk/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Promosyon tekstil ürünleri üretimi ve toptan satışı",
+      "Tişört, polar, hoodie gibi baskı yapılabilir ürünler",
+      "Koleksiyon geliştirme ve özelleştirme hizmetleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 39,
+    "firmaAdi": "Flexfit Yupoong & Bulk Brand",
+    "webPage": "https://www.flexfit.com/",
+    "address": "3 Lloyds Avenue, London, EC3N 3DS, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilen şapka ve headwear ürünleri üretimi ve satışı",
+      "Sürdürülebilir ve yüksek kaliteli şapka koleksiyonları",
+      "Markalı headwear çözümleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 40,
+    "firmaAdi": "For the Loom, Russell Europe & JERZEES",
+    "webPage": "https://www.russelleurope.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (tişört, sweatshirt, iş kıyafetleri)",
+      "Promosyon ve kurumsal giyim çözümleri",
+      "Organik ve geri dönüştürülmüş tekstil ürünleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 41,
+    "firmaAdi": "Gildan",
+    "webPage": "https://www.gildan.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (tişört, sweatshirt, hoodie, iç giyim, çorap)",
+      "Hazır giyim ve promosyon tekstil ürünleri",
+      "Organik ve sürdürülebilir ürün seçenekleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 42,
+    "firmaAdi": "Glenway Products",
+    "webPage": "https://www.glenway.co.uk/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Okul üniformaları ve kurumsal giyim üretimi",
+      "Baskı yapılabilir tekstil ürünleri",
+      "Kişiye özel ürün tasarımı ve üretimi"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 43,
+    "firmaAdi": "Golden Finishes",
+    "webPage": "https://www.goldenfinishes.com/",
+    "address": "Unit 7, Pantglas Industrial Estate, Bedwas, Caerphilly, CF83 8DR, UK",
+    "city": "Caerphilly",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı ve nakış için boş rozet, armalar, şeritler ve etiketler üretimi",
+      "Transfer baskıya uygun materyal satışı",
+      "Kişiye özel üretim hizmetleri"
+    ],
+    "not": "Makine satışı yapılmamaktadır; sadece sarf ve materyal temini yapılır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": true
+  },
+  {
+    "id": 44,
+    "firmaAdi": "Grafityp UK",
+    "webPage": "https://www.grafityp.co.uk/",
+    "address": "Yok",
+    "city": "Yok",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Folyolar, viniller ve transfer baskı malzemeleri satışı",
+      "Kesim makineleri ve plotterlar",
+      "Araç kaplama, tabela ve tekstil baskı ürünleri"
+    ],
+    "not": "Makine ve sarf ürünleri birlikte sunulmaktadır, tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "ROLAND VERSASTUDIO BY-20  DESKTOP DIRECT PRINTER BY-20 RRP £6,999 +VAT",
+      "Roland TY-300 DTF Printer RRP £13,999 +VAT"
+    ],
+    "makine_pictures": ["grafityp_1.png", "grafityp_2.png"]
+  },
+  {
+    "id": 45,
+    "firmaAdi": "HD Hats & Scarves",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Şapka ve atkı üretimi ve toptan satışı",
+      "Kış aksesuarları ve promosyon ürünleri"
+    ],
+    "not": "Detaylı bilgi eksik; web ve adres verisi bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 46,
+    "firmaAdi": "Henbury Brands",
+    "webPage": "https://www.henbury.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (polo yaka tişört, gömlek, sweatshirt, ceket)",
+      "Kurumsal giyim ve iş kıyafetleri toptan satışı",
+      "Promosyon tekstil ürünleri"
+    ],
+    "not": "Makine ve sarf malzemesi satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 47,
+    "firmaAdi": "Hobkirk Sewing Machines",
+    "webPage": "https://www.hobkirk.co.uk/",
+    "address": "54 Darwen Street, Blackburn, BB2 2BL, UK",
+    "city": "Blackburn",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Sanayi tipi dikiş makineleri ve nakış makineleri satışı",
+      "Makine yedek parça ve sarf malzemesi temini",
+      "Makine teknik servisi ve eğitimi"
+    ],
+    "not": "Tekstil satışı yoktur, sadece makine ve ekipman hizmeti verilir.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 48,
+    "firmaAdi": "Indie Ink",
+    "webPage": "https://www.indieink.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Özel tasarım baskı hizmetleri",
+      "Baskı yapılan tekstil ürünleri üretimi ve satışı",
+      "Marka işbirlikleriyle yaratıcı projeler"
+    ],
+    "not": "Makine ve sarf satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 49,
+    "firmaAdi": "Innovation Schoolwear",
+    "webPage": "https://www.innovationschoolwear.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Okul üniforması üretimi ve satışı",
+      "Kişiye özel nakış ve baskı hizmetleri",
+      "Promosyon amaçlı tekstil ürünleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 50,
+    "firmaAdi": "INQTRAC",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Promosyon ürünleri ve marka çözümleri",
+      "Tekstil dışı hediyelik ve kurumsal ürün tedariği"
+    ],
+    "not": "Firma bilgileri eksik; detaylı bilgiye ulaşılamamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 51,
+    "firmaAdi": "Insignia16",
+    "webPage": "https://www.insignia16.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Kurumsal promosyon ürünleri tedariki",
+      "Markaya özel baskılı tekstil ve aksesuarlar",
+      "Kişiye özel ürün üretimi"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 52,
+    "firmaAdi": "J&B Sewing Machine Co",
+    "webPage": "https://www.jbsewing.com/",
+    "address": "Curlew Close Queensway Meadows Newport NP19 4SY",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTF, UV DTF ve Heat Presses & Oven Dryers ... Sarf malzemeler",
+      "Dikiş makineleri, nakış makineleri ve yedek parçalar",
+      "Endüstriyel tekstil makineleri satışı",
+      "Teknik servis ve danışmanlık hizmetleri"
+    ],
+    "not": "Tekstil veya promosyon ürünü satışı bulunmamaktadır.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "Audley latest DTF Printer 60 cm Wifi connection",
+      "DTF Printer by Audley 30cm with automated shaker",
+      "Audley 60cm DTF Printer with twin Epson i3200 Printheads and Automated Shaker",
+      "DTF Printer 4 Heads by Audley 60cm with automated shaker",
+      "Audley DTF Printer 30cm with automated shake"
+    ],
+    "makine_pictures": ["jbsewing.png"]
+  },
+  {
+    "id": 53,
+    "firmaAdi": "Jack & Jones / PRODUKT",
+    "webPage": "https://www.jackjones.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Hazır giyim satışı (erkek moda, spor giyim, jean, t-shirt)",
+      "Perakende ve toptan tekstil ürünleri",
+      "Baskıya uygun boş giyim ürünleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 54,
+    "firmaAdi": "J. Scout Sports",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Spor giyim ürünleri satışı",
+      "Takım formaları ve promosyon tekstili"
+    ],
+    "not": "Web sitesi ve adres bilgileri mevcut değildir.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 55,
+    "firmaAdi": "Joy Designers",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Kurumsal tasarım ve promosyon ürünleri üretimi",
+      "Özel baskı çözümleri"
+    ],
+    "not": "Yetersiz bilgi, web ve adres belirtilmemiştir.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 56,
+    "firmaAdi": "Kingly",
+    "webPage": "https://www.wearekingly.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir promosyon tekstil ürünleri (çorap, tişört, havlu vb.)",
+      "Sürdürülebilir ve geri dönüştürülmüş malzemelerden üretim",
+      "Avrupa’da çevre dostu üretim çözümleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 57,
+    "firmaAdi": "Kit Builder",
+    "webPage": "https://www.kitbuilder.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Spor kıyafetleri için online özelleştirme yazılımı",
+      "Web to print çözümleri",
+      "B2B satış platformu hizmeti"
+    ],
+    "not": "Makine, sarf malzemesi veya fiziksel materyal satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 58,
+    "firmaAdi": "K.T. Labels",
+    "webPage": "https://www.ktlabels.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Etiket, şerit ve dokuma etiket üretimi",
+      "Kişiye özel baskılı etiket çözümleri",
+      "Isı transfer etiket üretimi"
+    ],
+    "not": "Tekstil, makine veya sarf dışında sadece etiket çözümleri sunar.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 59,
+    "firmaAdi": "Larkwood & Mumbles",
+    "webPage": "https://www.larkwoodclothing.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Bebek ve çocuk giyimi (tişört, body, şapka vb.)",
+      "Baskı yapılabilir promosyon ürünleri",
+      "Toptan satış için hazır giyim ürünleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 60,
+    "firmaAdi": "Madeira UK",
+    "webPage": "https://www.madeira.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış ipliği, baskı ipliği ve sarf malzemeleri satışı",
+      "Nakış çözümleri ve yazılımı",
+      "Endüstriyel dikiş ürünleri"
+    ],
+    "not": "Makine satışı yapılmaz; sarf ve iplik üzerine yoğunlaşılır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": true
+  },
+  {
+    "id": 61,
+    "firmaAdi": "Marathon Threads",
+    "webPage": "https://www.marathonthreads.com/",
+    "address": "3310 Kingston Road, Toronto, ON M1M 1P8, Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "faaliyetAlanlari": [
+      "Nakış ipliği ve dikiş ipliği satışı",
+      "Nakış sarf malzemeleri (iğne, stabilizer, bobin ipliği vb.)",
+      "Endüstriyel nakış çözümleri"
+    ],
+    "not": "Makine satışı yoktur; sadece sarf malzemeleri ve iplik ürünleri sunulmaktadır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": true
+  },
+  {
+    "id": 62,
+    "firmaAdi": "MHM Direct GB",
+    "webPage": "https://www.mhmdirect.co.uk/",
+    "address": "MHM Direct GB Unit 9, Langham Park, Lows Lane, Stanton by Dale, Derbyshire. DE7 4RJ",
+    "city": "Derby",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Serigrafi ve tekstil baskı makineleri satışı",
+      "Baskı makineleri yedek parça ve sarf malzemeleri",
+      "Teknik servis ve destek hizmetleri"
+    ],
+    "not": "Baskı yapılan tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "2 x Printhead CMYK + W Upto 20 linear m/hour",
+      "3 x Printhead CMYKLcLmFyFm + W Upto 20 linear m/hour",
+      "4 x Printhead CMYK + W Upto 40 linear m/hour "
+    ],
+    "makine_pictures": ["mhmdirect.png"]
+  },
+  {
+    "id": 63,
+    "firmaAdi": "Midwest Machinery",
+    "webPage": "https://midwestworld.com//",
+    "address": "Trafford Park 7 Platinum Road, Manchester, M41 7LJ",
+    "city": "Manchester",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTG ve DTF baskı makineleri, transfer pres makineleri satışı",
+      "Makine ekipmanları ve aksesuarlar",
+      "Teknik servis ve yedek parça hizmeti"
+    ],
+    "not": "Baskı yapılan materyal satışı yapılmamaktadır.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "MR300 Compact UV DTF printing £7,995.00 +VAT",
+      "MR600 2H Compact £13,995.00 +VAT",
+      "MR600 4H Compact £17,995.00 +VAT"
+    ],
+    "makine_pictures": ["mps.png"]
+  },
+  {
+    "id": 64,
+    "firmaAdi": "Native Spirit",
+    "webPage": "https://www.nativespirit-ns.com/",
+    "address": "14 rue du Parc, 67205 Oberhausbergen, France",
+    "city": "Oberhausbergen",
+    "country": "France",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir organik tekstil ürünleri (tişört, sweatshirt, hoodie vb.)",
+      "Sürdürülebilir ve çevre dostu üretim",
+      "Toptan tekstil ürünleri satışı"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 65,
+    "firmaAdi": "EmbroideryBadge UK",
+    "webPage": "https://www.embroiderybadge.uk/",
+    "address": "16 Northumberland Avenue, Reading, RG2 7PW, UK",
+    "city": "Reading",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakışlı ve baskılı arma, rozet ve etiket üretimi",
+      "Kişiye özel etiket çözümleri",
+      "Promosyon tekstil aksesuarları"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 66,
+    "firmaAdi": "Next Level Apparel",
+    "webPage": "https://www.nextlevelapparel.com/",
+    "address": "1951 E. Avis Drive, Madison Heights, MI 48071, USA",
+    "city": "Madison Heights",
+    "country": "USA",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir hazır giyim (tişört, hoodie, sweatshirt vb.)",
+      "Toptan moda ve promosyon tekstili",
+      "Organik ve sürdürülebilir kumaş koleksiyonu"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 67,
+    "firmaAdi": "Nova Chrome UK",
+    "webPage": "https://www.novachrome.co.uk/",
+    "address": "Unit 1, Clywedog Road South, Wrexham Industrial Estate, Wrexham, LL13 9XS, UK",
+    "city": "Wrexham",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Süblimasyon baskı makineleri ve yazıcıları",
+      "Baskı sarf malzemeleri (mürekkep, kâğıt, boş ürünler)",
+      "Süblimasyon eğitimleri ve teknik destek"
+    ],
+    "not": "Kendi üretimi tekstil ürünleri satışı bulunmaz.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "Otter M30 DTF Printer £2,799.00 Ex vat.",
+      "Otter S40 Pro DTF £4,999.00 Ex vat."
+    ],
+    "makine_pictures": ["novachrome.png"]
+  },
+  {
+    "id": 68,
+    "firmaAdi": "One+All",
+    "webPage": "https://www.oneandall.co.uk/",
+    "address": "Globe House, Southall Street, Manchester, M3 1LG, UK",
+    "city": "Manchester",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Okul üniformaları ve iş kıyafetleri üretimi",
+      "Toptan baskı yapılabilir tekstil ürünleri",
+      "Sürdürülebilir ve etik tekstil çözümleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 69,
+    "firmaAdi": "Payper",
+    "webPage": "https://www.payperwear.com/",
+    "address": "Via dell’Industria, 8, 62014 Corridonia (MC), Italy",
+    "city": "Corridonia",
+    "country": "Italy",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir iş ve spor giyim ürünleri",
+      "Endüstriyel iş kıyafetleri ve aksesuarlar",
+      "Toptan tekstil tedariki"
+    ],
+    "not": "Makine veya sarf malzemesi satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 70,
+    "firmaAdi": "Polymark",
+    "webPage": "https://www.polymark.co.uk/",
+    "address": "Polymark House, Arkwright Road, Reading, RG2 0LU, UK",
+    "city": "Reading",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Isı transfer baskı malzemeleri ve etiket çözümleri",
+      "Etiket makineleri ve yazıcı sistemleri",
+      "Endüstriyel baskı sarf malzemeleri"
+    ],
+    "not": "Tekstil ürünü satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 71,
+    "firmaAdi": "Pressmech",
+    "webPage": "https://www.pressmech.co.uk/",
+    "address": "UNIT 3 WALTON NEW ROAD UPPER BRUNTINGTHORPE LEICESTER LE17 5RD, UK",
+    "city": "LEICESTER",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Isı transfer baskı presleri üretimi ve satışı",
+      "Özel üretim baskı makineleri",
+      "Teknik servis ve destek"
+    ],
+    "not": "Tekstil veya sarf malzemesi satışı yapılmaz.",
+    "isMakina": true,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 72,
+    "firmaAdi": "Prestige Leisure UK",
+    "webPage": "https://www.prestigeleisure.com/",
+    "address": "7 Nasmyth Court, Houston Industrial Estate, Livingston, EH54 5EG, UK",
+    "city": "Livingston",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Toptan baskı yapılabilir tekstil ürünleri satışı",
+      "Markalı hazır giyim ürünleri (Fruit of the Loom, Gildan vb.)",
+      "Promosyon tekstili ve iş kıyafetleri"
+    ],
+    "not": "Makine veya sarf satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 73,
+    "firmaAdi": "Primo Apparel",
+    "webPage": "https://www.primoapparel.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir tekstil ürünleri (tişört, hoodie, eşofman vb.)",
+      "Toptan giyim ve promosyon ürünleri",
+      "Markalı ve özel koleksiyon üretimi"
+    ],
+    "not": "Makine veya sarf malzemesi satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 74,
+    "firmaAdi": "Print Hero",
+    "webPage": "https://www.printhero.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTF baskı hizmetleri",
+      "Baskıya hazır transfer üretimi",
+      "Kişiye özel baskı çözümleri"
+    ],
+    "not": "Makine veya tekstil ürünü satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 75,
+    "firmaAdi": "Print My Transfer (by Seripress)",
+    "webPage": "https://www.printmytransfer.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Hazır baskı transfer üretimi (DTF, HTV vb.)",
+      "Kişiye özel baskı ve etiket çözümleri",
+      "Isı transfer teknolojileri"
+    ],
+    "not": "Makine veya tekstil ürünü satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 76,
+    "firmaAdi": "Product Zone",
+    "webPage": "https://www.productzone.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Kurumsal ve promosyon tekstil ürünleri",
+      "Markalı kıyafetler ve aksesuarlar",
+      "Toptan baskı yapılabilir ürün temini"
+    ],
+    "not": "Makine veya sarf satışı yapılmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 77,
+    "firmaAdi": "Project X",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Marka temelli tasarım ürünleri",
+      "Moda ve promosyon tekstili"
+    ],
+    "not": "Firma bilgileri eksiktir, detay verilmemiştir.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 78,
+    "firmaAdi": "PRO RTX",
+    "webPage": "https://www.prortx.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir iş kıyafetleri üretimi",
+      "Toptan satış ve distribütörlük",
+      "Geniş renk ve beden seçeneğiyle promosyon çözümleri"
+    ],
+    "not": "Makine veya sarf satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 79,
+    "firmaAdi": "Ralawise",
+    "webPage": "https://www.ralawise.com/",
+    "address": "Unit 4, Deeside Point, Tenth Avenue, Deeside Industrial Park, Deeside, CH5 2UA, UK",
+    "city": "Deeside",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Toptan baskı yapılabilir giyim ürünleri",
+      "Promosyon tekstili ve iş kıyafetleri",
+      "Markalı ürünlerin distribütörlüğü"
+    ],
+    "not": "Makine veya sarf satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 80,
+    "firmaAdi": "R.A. Smart",
+    "webPage": "https://www.rasmart.co.uk/",
+    "address": "R A Smart (Holdings) Ltd, Clough Bank, Grimshaw Lane, Bollington, Macclesfield, Cheshire, SK10 5NZ",
+    "city": "Macclesfield",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTF yok sadece DTG Dijital tekstil baskı makineleri satışı",
+      "Baskı öncesi ve sonrası ekipmanlar",
+      "Sarf malzemeleri ve teknik servis"
+    ],
+    "not": "Hazır tekstil veya promosyon ürün satışı yapılmaz.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 81,
+    "firmaAdi": "Regal Toys",
+    "webPage": "https://www.regaltoys.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Kurumsal oyuncak ve peluş ürünleri üretimi",
+      "Promosyon amaçlı kişiye özel ürünler",
+      "Baskıya uygun peluş ürünleri"
+    ],
+    "not": "Makine ve sarf malzemesi satışı bulunmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 82,
+    "firmaAdi": "Regatta Professional",
+    "webPage": "https://www.regatta.com/professional/",
+    "address": "Regatta Ltd, Basecamp, Mercury Way, Urmston, Manchester, M41 7RR, UK",
+    "city": "Manchester",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir outdoor ve iş kıyafetleri",
+      "Toptan promosyon tekstil ürünleri",
+      "Sürdürülebilir üretim çözümleri"
+    ],
+    "not": "Makine ve sarf malzemesi satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 83,
+    "firmaAdi": "Resolute",
+    "webPage": "https://www.resolute.ink/",
+    "address": "Resolute DTG Ltd Unit 5, Wingfield Court, Clay Cross S45 9JA",
+    "city": "Sheffield",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTF baskı makineleri, yazıcı ve fırın sistemleri satışı",
+      "DTF sarf malzemeleri (film, mürekkep, toz)",
+      "Teknik destek ve yazılım çözümleri"
+    ],
+    "not": "Hazır tekstil ürünleri satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "R-JET PRO DTF™ V8i",
+      "R-JET PRO DTF™ mini",
+      "R-JET PRO DTF™ UVi"
+    ],
+    "makine_pictures": ["resolute.png", "resolute_1.png", "resolute_2.png"]
+  },
+  {
+    "id": 84,
+    "firmaAdi": "Ribbon Print",
+    "webPage": "https://www.ribbonprint.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Kurdele üzerine baskı çözümleri",
+      "Şerit baskı makineleri ve yazıcılar",
+      "Baskıya özel kurdele ve şeritler"
+    ],
+    "not": "Tekstil dışı promosyon çözümleri sunar.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 85,
+    "firmaAdi": "Ribbon Writer",
+    "webPage": "https://www.ribbonwriter.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Kurdele yazıcıları, sarf malzemeleri ve yazılım çözümleri",
+      "Hediyelik ve dekoratif baskı ürünleri",
+      "Kişiye özel baskılı kurdele hizmetleri"
+    ],
+    "not": "Tekstil ürünü satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 86,
+    "firmaAdi": "Ricoh Printing Solutions Europe",
+    "webPage": "https://www.ricoh-europe.com/",
+    "address": "20 Triton Street, London, NW1 3BF, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Endüstriyel dijital baskı makineleri",
+      "Baskı yazılımı, sarf malzemeleri ve teknik destek",
+      "Kurumsal baskı çözümleri"
+    ],
+    "not": "Hazır tekstil ürünleri sunulmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 87,
+    "firmaAdi": "Roland DG",
+    "webPage": "https://www.rolanddg.co.uk/",
+    "address": "AVRUPA",
+    "city": "AVRUPA",
+    "country": "AVRUPA",
+    "faaliyetAlanlari": [
+      "Dijital baskı makineleri (UV, eco-solvent, tekstil vb.)",
+      "Kesici plotterlar ve yazılımlar",
+      "Baskı sarf malzemeleri ve teknik servis"
+    ],
+    "not": "Tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "TY-300 NEW Direct-to-Film Printer",
+      "VersaSTUDIO BY-20 Desktop Direct-to-Film Printer",
+      "VersaOBJECT MO Series NEW Flatbed UV Printers"
+    ],
+    "makine_pictures": ["adelco.png"]
+  },
+  {
+    "id": 88,
+    "firmaAdi": "Roly & Stamina",
+    "webPage": "https://www.goroly.eu/",
+    "address": "C/ Leonardo da Vinci, 15, Pol. Ind. La Garza, 30591 Balsicas, Murcia, Spain",
+    "city": "Murcia",
+    "country": "Spain",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir tekstil ürünleri (tişört, hoodie, spor giyim)",
+      "Promosyon tekstili ve iş kıyafetleri",
+      "Toptan satış ve Avrupa dağıtımı"
+    ],
+    "not": "Makine veya sarf malzemesi satışı bulunmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 89,
+    "firmaAdi": "Ryozo",
+    "webPage": "https://www.ryozo.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Tasarım odaklı tekstil ürünleri ve sokak modası",
+      "Baskı yapılabilir hazır giyim",
+      "Markaya özel tekstil çözümleri"
+    ],
+    "not": "Makine veya sarf satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 90,
+    "firmaAdi": "SAATI and L&M Imaging",
+    "webPage": "https://www.saati.com/",
+    "address": "SAATI S.p.A., Via Milano, 14, 22070 Appiano Gentile (CO), Italy",
+    "city": "Appiano Gentile",
+    "country": "Italy",
+    "faaliyetAlanlari": [
+      "Serigrafi baskı çözümleri",
+      "Mesh ve emülsiyon ürünleri, kimyasallar",
+      "Teknik tekstil ve sarf malzemeleri"
+    ],
+    "not": "Makine satışı sınırlıdır, yoğunlukla sarf ve baskı kimyasallarında uzmandır.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 91,
+    "firmaAdi": "SanSiro",
+    "webPage": "https://www.sansiroclothing.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılabilir tekstil ürünleri (tişört, hoodie, eşofman altı vb.)",
+      "Toptan promosyon tekstili",
+      "Markaya özel üretim çözümleri"
+    ],
+    "not": "Makine veya sarf malzemesi satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 92,
+    "firmaAdi": "Sawgrass",
+    "webPage": "https://www.sawgrassink.com/",
+    "address": "2200 South Carolina Avenue, North Charleston, SC 29405, USA",
+    "city": "North Charleston",
+    "country": "USA",
+    "faaliyetAlanlari": [
+      "Süblimasyon baskı makineleri ve yazıcı sistemleri",
+      "Baskı mürekkepleri, yazılım ve sarf malzemeleri",
+      "Küçük ve orta ölçekli üreticilere yönelik çözümler"
+    ],
+    "not": "Tekstil satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 93,
+    "firmaAdi": "SC Grafix",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Baskı hizmetleri ve promosyon ürünleri üretimi",
+      "Kişiye özel tekstil baskısı"
+    ],
+    "not": "Firma bilgileri eksiktir, web ve adres belirtilmemiştir.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 94,
+    "firmaAdi": "SG",
+    "webPage": "https://www.sgclothing.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Toptan tekstil ürünleri (tişört, sweatshirt, hoodie)",
+      "Promosyon tekstili ve iş kıyafetleri",
+      "Baskıya uygun geniş ürün yelpazesi"
+    ],
+    "not": "Makine veya sarf satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 95,
+    "firmaAdi": "Snuggle",
+    "webPage": "https://www.snuggle.co.uk/",
+    "address": "Snuggle Ltd, Unit 5, Venture Point, Towers Business Park, Rugeley, WS15 1UZ, UK",
+    "city": "Rugeley",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTG ve DTF baskı hizmetleri",
+      "Kişiye özel tekstil baskısı",
+      "Baskı transfer üretimi"
+    ],
+    "not": "Makine veya tekstil satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 96,
+    "firmaAdi": "Stanley/Stella",
+    "webPage": "https://www.stanleystella.com/",
+    "address": "Avenue Louise 143, 1050 Brussels, Belgium",
+    "city": "Brussels",
+    "country": "Belgium",
+    "faaliyetAlanlari": [
+      "Organik ve sürdürülebilir tekstil ürünleri (tişört, hoodie, sweat)",
+      "Toptan baskıya uygun giyim ürünleri",
+      "Avrupa genelinde dağıtım ağı"
+    ],
+    "not": "Makine ve sarf satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 97,
+    "firmaAdi": "Stormtech",
+    "webPage": "https://www.stormtech.ca/",
+    "address": "202-3755 North Fraser Way, Burnaby, BC V5J 5G4, Canada",
+    "city": "Burnaby",
+    "country": "Canada",
+    "faaliyetAlanlari": [
+      "Baskıya uygun outdoor giyim ürünleri",
+      "Kurumsal giyim çözümleri",
+      "Sürdürülebilir ürün koleksiyonları"
+    ],
+    "not": "Makine veya sarf satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 98,
+    "firmaAdi": "Style It",
+    "webPage": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "faaliyetAlanlari": [
+      "Tasarım odaklı tekstil ürünleri üretimi",
+      "Promosyon amaçlı hazır giyim çözümleri"
+    ],
+    "not": "Firma bilgileri eksiktir.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 99,
+    "firmaAdi": "SubliMet",
+    "webPage": "https://www.sublimet.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Süblimasyon baskı transferleri",
+      "DTF ve UV DTF sarf malzemeleri",
+      "Kişiye özel baskı çözümleri"
+    ],
+    "not": "Makine satışı yapılmaz.",
+    "isMakina": false,
+    "isSarf": true,
+    "isMaterials": false
+  },
+  {
+    "id": 100,
+    "firmaAdi": "Superdrop",
+    "webPage": "https://www.superdrop.co.uk/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Kişiye özel tekstil ürünleri ve doğrudan tüketiciye satış",
+      "Dropshipping baskı çözümleri",
+      "Promosyon amaçlı hazır ürün satışı"
+    ],
+    "not": "Makine veya sarf malzemesi satışı bulunmamaktadır.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 101,
+    "firmaAdi": "Stocks Embroidery Solutions",
+    "webPage": "https://www.stocks.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış makineleri satışı",
+      "Nakış makineleri servisi ve teknik destek",
+      "Nakış makineleri için yedek parça ve sarf malzemesi satışı",
+      "Nakış yazılımı satışı"
+    ],
+    "not": "Baskı yapılan tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 102,
+    "firmaAdi": "Stormtech",
+    "webPage": "https://www.stormtech.ca/",
+    "address": "3771 North Fraser Way, Burnaby, BC, V5J 5G5, Canada",
+    "city": "Burnaby",
+    "country": "Canada",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (outdoor giyim, mont, yelek, yağmurluk, spor giyim)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Sürdürülebilir ve fonksiyonel tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 103,
+    "firmaAdi": "T&F Sports Apparel",
+    "webPage": "https://www.tfsportsapparel.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (spor giyim, formalar, antrenman kıyafetleri)",
+      "Takım ve kulüp tekstili toptan satışı",
+      "Kişiye özel spor giyim üretimi"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 104,
+    "firmaAdi": "Tee Jays",
+    "webPage": "https://www.teejays.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, polo, iş kıyafetleri)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Sürdürülebilir ve fonksiyonel tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 105,
+    "firmaAdi": "TH Clothes",
+    "webPage": "https://www.thclothes.com/",
+    "address": "Rua das Alminhas, 55, 4765-349 Oliveira S. Mateus, Portugal",
+    "city": "Oliveira S. Mateus",
+    "country": "Portugal",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, polo, iş kıyafetleri)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Sürdürülebilir ve fonksiyonel tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 106,
+    "firmaAdi": "TheMagicTouch",
+    "webPage": "https://www.themagictouch.co.uk/",
+    "address": "Unit 25, Apex Business Centre Boscombe Road, Dunstable, Bedfordshire, LU5 4SB",
+    "city": "Luton",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Transfer baskı makineleri ve presleri satışı",
+      "Transfer baskı sarf malzemeleri (folyo, vinil, film)",
+      "Kişiye özel baskı çözümleri",
+      "Baskı makineleri servisi ve teknik destek"
+    ],
+    "not": "Tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [
+      "DTF Magic 30PRO Single Head DTF Direct To Film Printer & Consumables",
+      "DTF Magic 60PRO 2 Head DTF Direct To Film Printer & Consumables",
+      "DTF Magic 60PRO 4 Head DTF Direct To Film Printer & Consumables"
+    ],
+    "makine_pictures": ["themagictouch.png"]
+  },
+  {
+    "id": 107,
+    "firmaAdi": "Trade Transfers",
+    "webPage": "https://www.tradetransfers.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Transfer baskı ürünleri üretimi ve satışı",
+      "Isı transfer baskı çözümleri",
+      "Kişiye özel baskı transferleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 108,
+    "firmaAdi": "Trendsetting Awards",
+    "webPage": "https://www.trendsettingawards.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Promosyon ürünleri ve ödül/trofe üretimi",
+      "Kişiye özel baskılı ödül ve plaketler",
+      "Kurumsal ödül çözümleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 109,
+    "firmaAdi": "TriDri",
+    "webPage": "https://www.tridri.com/",
+    "address": "Unit 1, The IO Centre, Nash Road, Redditch, B98 7AS, UK",
+    "city": "Redditch",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (spor giyim, t-shirt, sweatshirt, hoodie)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Sürdürülebilir ve fonksiyonel tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 110,
+    "firmaAdi": "TWT – Transworld Trophies",
+    "webPage": "https://www.twtuk.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Promosyon ürünleri ve ödül/trofe üretimi",
+      "Kişiye özel baskılı ödül ve plaketler",
+      "Kurumsal ödül çözümleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 111,
+    "firmaAdi": "United Brands of Scandinavia",
+    "webPage": "https://www.united-brands.co.uk/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, iş kıyafetleri, spor giyim)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Sürdürülebilir ve fonksiyonel tekstil ürünleri"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 112,
+    "firmaAdi": "Vanilla",
+    "webPage": "https://www.vanillawear.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Baskı yapılan materyallerin satışı (t-shirt, sweatshirt, hoodie, iş kıyafetleri)",
+      "Tekstil ve hazır giyim toptan satışı",
+      "Kişiye özel tekstil üretimi"
+    ],
+    "not": "Baskı makinesi, sarf malzemesi veya servis faaliyeti yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": true
+  },
+  {
+    "id": 113,
+    "firmaAdi": "Wilcom Europe",
+    "webPage": "https://www.wilcom.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış yazılımı ve dijitalleştirme çözümleri",
+      "Nakış yazılımı eğitimi ve teknik destek",
+      "Endüstriyel nakış otomasyon çözümleri"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 114,
+    "firmaAdi": "Xpres",
+    "webPage": "https://www.xpres.co.uk/",
+    "address": "Oakridge Park, Trent Lane, Castle Donington, Derby DE74 2PY",
+    "city": "Derby",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Transfer baskı makineleri ve presleri satışı",
+      "Transfer baskı sarf malzemeleri (folyo, vinil, film)",
+      "Dijital baskı makineleri ve ekipmanları",
+      "Kişiye özel baskı çözümleri"
+    ],
+    "not": "Tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": ["Roland", "Epson", "Mimaki"],
+    "makine_pictures": ["xpres.png"],
+    "youtube": "https://www.youtube.com/watch?v=UmZuvEhUFms&t=45s"
+  },
+  {
+    "id": 115,
+    "firmaAdi": "YES LTD.",
+    "webPage": "https://www.yesltd.co.uk/",
+    "address": "Addresi yok Uk ofisi olmayabilir Fransiz olabilir",
+    "city": "",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Nakış makineleri satışı",
+      "Dijital baskı makineleri satışı",
+      "Baskı makineleri servisi ve teknik destek",
+      "Yedek parça ve sarf malzemesi satışı",
+      "Nakış ve baskı yazılımı satışı"
+    ],
+    "not": "Baskı yapılan tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": true,
+    "isSarf": false,
+    "isMaterials": false,
+    "makinalar": [
+      "DTF - 24/H2",
+      "DTF – 24/H4",
+      "Prestige R1 DTF Printer",
+      "DTF Station - Prestige R2 Pro + Max DTF Printer"
+    ],
+    "makine_pictures": ["yesltd.png"]
+  },
+  {
+    "id": 116,
+    "firmaAdi": "Zakeke",
+    "webPage": "https://www.zakeke.com/",
+    "address": "Via G. Marconi, 2, 24044 Dalmine (BG), Italy",
+    "city": "Dalmine",
+    "country": "Italy",
+    "faaliyetAlanlari": [
+      "Web tabanlı kişiselleştirme ve 3D ürün görselleştirme yazılımı",
+      "Online mağaza entegrasyon çözümleri",
+      "Dijital baskı ve promosyon sektörü için yazılım"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  },
+  {
+    "id": 117,
+    "firmaAdi": "Zigaflow",
+    "webPage": "https://www.zigaflow.com/",
+    "address": "1st Floor, 2 Woodberry Grove, London, N12 0DR, UK",
+    "city": "London",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "Sipariş ve üretim yönetimi yazılımı",
+      "Dijital iş süreçleri otomasyon çözümleri",
+      "Promosyon ve baskı firmaları için yazılım"
+    ],
+    "not": "Baskı makinesi, tekstil veya promosyon ürünü satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false
+  }
+]
