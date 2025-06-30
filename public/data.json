@@ -2059,7 +2059,6 @@
     "isSarf": false,
     "isMaterials": false
   },
-
   {
     "id": 118,
     "firmaAdi": "Sabur",
@@ -2078,5 +2077,22 @@
     "isMaterials": false,
     "makinalar": [""],
     "makine_pictures": ["sabur_1.png", "sabur_2.png"]
+  },
+  {
+    "id": 119,
+    "firmaAdi": "InkFuseDTF",
+    "webPage": "https://www.inkfusedtf.co.uk/",
+    "address": "Unit 16 Ferrybridge Business Park, Knottingley, WF11 8NA. United Kingdom (UK)",
+    "city": "Leeds",
+    "country": "UK",
+    "faaliyetAlanlari": [
+      "DTF Printers, PArts, Heat PRess, Sarf Malzemeleri Ink - Film - Powder"
+    ],
+    "not": "Baskı yapılan materyal veya tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [""],
+    "makine_pictures": ["inkfusedtf_1"]
   }
 ]
