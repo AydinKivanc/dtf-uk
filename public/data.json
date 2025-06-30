@@ -2094,5 +2094,52 @@
     "isMaterials": false,
     "makinalar": [""],
     "makine_pictures": ["inkfusedtf_1"]
+  },
+  {
+    "id": 120,
+    "firmaAdi": "PaperGraphics",
+    "webPage": "https://paper-graphics.com/",
+    "address": "Diva Innovation Centre Crompton Way Crawley West Sussex RH10 9QR",
+    "city": "West Sussex",
+    "country": "UK",
+    "faaliyetAlanlari": ["Sarf Malzemeleri Ink - Film - Powder"],
+    "not": "Baskı yapılan materyal veya tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": [""],
+    "makine_pictures": [""]
+  },
+  {
+    "id": 121,
+    "firmaAdi": "Procolored",
+    "webPage": "https://www.procolored.com/",
+    "address": "Unit 19 Cocker Avenue Poulton Industrial Estate Poulton-le-Fylde Lancashire",
+    "city": "Lancashire",
+    "country": "UK",
+    "faaliyetAlanlari": ["Sarf Malzemeleri Ink - Film - Powder"],
+    "not": "Baskı yapılan materyal veya tekstil satışı yoktur.",
+    "isMakina": false,
+    "isSarf": false,
+    "isMaterials": false,
+    "makinalar": ["procolored.png"],
+    "makine_pictures": [""],
+    "isGangSheet": true
+  },
+  {
+    "id": 122,
+    "firmaAdi": "Colourbyte",
+    "webPage": "https://colourbyte.co.uk//",
+    "address": "Units 26 & 27 Whiteleaf Road, Hemel Hempstead, Herts, HP3 9HD UK",
+    "city": "York",
+    "country": "UK",
+    "faaliyetAlanlari": ["DTF Printer, Sarf Malzemeleri Ink - Film - Powder"],
+    "not": "Baskı yapılan materyal veya tekstil satışı yoktur.",
+    "isMakina": true,
+    "isSarf": true,
+    "isMaterials": false,
+    "makinalar": ["colourbyte.png"],
+    "makine_pictures": [""],
+    "isGangSheet": false
   }
 ]
