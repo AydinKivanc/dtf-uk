@@ -2155,7 +2155,11 @@
     "isSarf": true,
     "isMaterials": false,
     "makinalar": ["30,42,60"],
-    "makine_pictures": ["naggraprinters_1.png"],
+    "makine_pictures": [
+      "naggraprinters_1.png",
+      "naggraprinters_2.png",
+      "naggraprinters_1.png"
+    ],
     "isGangSheet": false
   },
   {
